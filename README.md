@@ -28,19 +28,10 @@
 ## Motivation and Story
 My client gave me direction by giving me a mock of what the Overview should look like. From there we went in depth of the nitty gritty details of what should occur in certain situations. From there we had a document full of requests and I went to work on creating the end product. Through timeblocking using trello with my team and organizing my own schedule around the deliverables I was able to create a overview section that surpassed client expectations.
 
-## Code Styles
-
-
 ## Repository Installation / Setup
 ```
 $ git clone git@github.com:Mob-Psycho-100/project-atelier.git
 ```
-
-## Tests
-
-
-## Credits
-
 
 ## Contributors Information
 **Edgar Carrillo**
