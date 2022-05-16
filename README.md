@@ -33,6 +33,16 @@ My client gave me direction by giving me a mock of what the Overview should look
 $ git clone git@github.com:Mob-Psycho-100/project-atelier.git
 ```
 
+To see my end product in action all you have to do is run the following within the directory.
+
+`$ npm install`
+
+And from here run
+
+`$ npm run start`
+
+Now the server should be running on localhost:3000. Navigate there and you should see the overview!
+
 ## Contributors Information
 **Edgar Carrillo**
 </br>
