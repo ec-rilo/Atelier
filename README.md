@@ -15,10 +15,18 @@
 <h4 align="center">An e-commerce application that provides a broad range of products.</h4>
 
 ## Features
+ - **Product Detail Page**
+ 1. An image carousel where the user can use the arrows for navigation.
+ 2. An image modal where the user can also use arrows for image navigation and click on the image for focused view.
+ 3. Style selection so the user can change between different styles.
+ 4. Size, Quantity, and Add to Cart functionality.
+ 5. Description of product.
+ 6. Redirect to reviews section.
+ 5. A dynamically changing price that will turn red and cross out original price if there is a sale price.
 
 
 ## Motivation and Story
-
+My client gave me direction by giving me a mock of what the Overview should look like. From there we went in depth of the nitty gritty details of what should occur in certain situations.
 
 ## Code Styles
 
