@@ -1,8 +1,7 @@
 
-<h1 align="center">Project Atelier</h1>
+<h1 align="center">Atelier</h1>
 
-<h4 align="center">Description of the application goes here.</h4>
-<p align="center"> <a href="#">View Live >></a></p>
+<h4 align="center">An e-commerce application that provides a broad range of products.</h4>
 
 ## Features
 
